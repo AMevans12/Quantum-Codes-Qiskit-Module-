@@ -1,6 +1,3 @@
-You're right, Markdown uses `#` for headings. Here is the revised content in proper Markdown format:
-
----
 
 # Quantum Computing Playground with Qiskit
 
