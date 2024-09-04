@@ -54,6 +54,16 @@ Understanding quantum circuits is fundamental to mastering quantum computing. Th
 ### Execution on IBM Quantum Experience
 IBM Quantum Experience allows you to run quantum algorithms on real quantum processors. This repository includes codes that have been executed on IBM's quantum hardware, providing a realistic view of quantum computing's current state and practical applications. You can also learn how to set up and run your own quantum experiments using IBM's platform.
 
+### License
+This repository is licensed under the Apache License 2.0. You may obtain a copy of the License at:
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+
+This repository is open to contributions under the terms of the Apache 2.0 license. Contributions are welcome and encouraged, helping to make this a comprehensive and dynamic resource for the quantum computing community.
+
+
 ### Contributions
 Quantum computing is an evolving field, and contributions from the community are invaluable. By contributing to this repository, you can share your quantum experiments, propose new algorithms, and help improve existing implementations. Contributions help in building a comprehensive resource for learners and enthusiasts alike.
 
