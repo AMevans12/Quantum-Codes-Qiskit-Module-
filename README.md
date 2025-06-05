@@ -5,7 +5,7 @@ This repository is a playground for exploring the fascinating world of quantum c
 
 ## Features
 
-### Grover's Algorithm
+### Grover's Algorithm 
 Experience the power of Grover's search algorithm, a quantum algorithm that efficiently searches unsorted databases, offering exponential speedup over classical search algorithms.
 
 ### Quantum Fourier Transform
